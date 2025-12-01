@@ -8,7 +8,7 @@ public class PostgresDBConnectorNoComments {
 
     private static final String DB_URL = "postgresql-42.7.8.jar";
     private static final String USER = "Antenaina";
-    private static final String PASSWORD = "mot_de_passe";
+    private static final String PASSWORD = "Lamiloyk@5";
 
     public static void main(String[] args) {
         Connection connection = null;
